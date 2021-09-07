@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fn.B2CFindUserGroups", "Fn.B2CFindUserGroups\Fn.B2CFindUserGroups.csproj", "{7E2C9DED-1F2E-4DB8-BBFA-B390A04C1893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2C9DED-1F2E-4DB8-BBFA-B390A04C1893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2C9DED-1F2E-4DB8-BBFA-B390A04C1893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2C9DED-1F2E-4DB8-BBFA-B390A04C1893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2C9DED-1F2E-4DB8-BBFA-B390A04C1893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55ABA08C-9A4C-4A50-8D0F-AD3AC6FA53FE}
+	EndGlobalSection
+EndGlobal

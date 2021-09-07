@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageacname;AccountKey=xxxxxxxxxxx;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "Instance": "https://login.microsoftonline.com/{0}",
+    "ApiUrl": "https://graph.microsoft.com/",
+    "Dest_Tenant": "xxxxxxx-xxx-xxxx-xxxx-xxxxxxxxxx",
+    "Dest_ClientId": "xxxxxxx-xxxxx-xxxx-xxxx-xxxxxxxxxxx",
+    "Dest_ClientSecret": "xxxxxxxxxxxxxxxx"
+  }
+}
